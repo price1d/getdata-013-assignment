@@ -2,7 +2,7 @@
 * author: Dan Price
 * date: 25 April 2015
 * output: summaryData.txt
----
+
  
 ## Project Description
 This is an assignment for Getting and Cleaning Data.  It involves analysing a series of collected smartphone observations.
