@@ -1,13 +1,11 @@
-# getdata-013-assignment
-Coursera Getting and Cleaning Data Assignment
-Title: Readme for run_analysis.R
-author: Dan Price
-date: 25 April 2015
-output: summaryData.txt
+* Title: Readme for run_analysis.R
+* author: Dan Price
+* date: 25 April 2015
+* output: summaryData.txt
 ---
  
 ## Project Description
-Short description of the project
+This is an assignment for Getting and Cleaning Data.  It involves analysing a series of collected smartphone observations.
  
 ##Study design and data processing
  
